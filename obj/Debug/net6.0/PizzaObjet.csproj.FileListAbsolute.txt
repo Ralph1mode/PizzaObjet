@@ -1,0 +1,15 @@
+C:\Github\Solution PizzaObjet\PizzaObjet\obj\Debug\net6.0\PizzaObjet.csproj.AssemblyReference.cache
+C:\Github\Solution PizzaObjet\PizzaObjet\obj\Debug\net6.0\PizzaObjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Solution PizzaObjet\PizzaObjet\obj\Debug\net6.0\PizzaObjet.AssemblyInfoInputs.cache
+C:\Github\Solution PizzaObjet\PizzaObjet\obj\Debug\net6.0\PizzaObjet.AssemblyInfo.cs
+C:\Github\Solution PizzaObjet\PizzaObjet\obj\Debug\net6.0\PizzaObjet.csproj.CoreCompileInputs.cache
+C:\Github\Solution PizzaObjet\PizzaObjet\bin\Debug\net6.0\PizzaObjet.exe
+C:\Github\Solution PizzaObjet\PizzaObjet\bin\Debug\net6.0\PizzaObjet.deps.json
+C:\Github\Solution PizzaObjet\PizzaObjet\bin\Debug\net6.0\PizzaObjet.runtimeconfig.json
+C:\Github\Solution PizzaObjet\PizzaObjet\bin\Debug\net6.0\PizzaObjet.dll
+C:\Github\Solution PizzaObjet\PizzaObjet\bin\Debug\net6.0\ref\PizzaObjet.dll
+C:\Github\Solution PizzaObjet\PizzaObjet\bin\Debug\net6.0\PizzaObjet.pdb
+C:\Github\Solution PizzaObjet\PizzaObjet\obj\Debug\net6.0\PizzaObjet.dll
+C:\Github\Solution PizzaObjet\PizzaObjet\obj\Debug\net6.0\ref\PizzaObjet.dll
+C:\Github\Solution PizzaObjet\PizzaObjet\obj\Debug\net6.0\PizzaObjet.pdb
+C:\Github\Solution PizzaObjet\PizzaObjet\obj\Debug\net6.0\PizzaObjet.genruntimeconfig.cache
